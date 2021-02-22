@@ -42,5 +42,5 @@ fs.writeFileSync('dist/chessboard-' + version + '.js', jsSrc, encoding)
 fs.writeFileSync('dist/chessboard-' + version + '.min.js', minifiedJSWithBanner, encoding)
 
 function banner () {
-  return '/*! chessboard.js v' + version + ' | (c) ' + year + ' Chris Oakman | MIT License chessboardjs.com/license */\n'
+  return '/*! varboard.js v' + version + '*/\n'
 }

@@ -9,9 +9,12 @@
     "type": "git",
     "url": "git://github.com/thebicpen/chessboardjs.git"
   },
-  "files": ["dist/"],
+  "files": [
+    "dist/"
+  ],
   "dependencies": {
-    "jquery": ">=3.4.1"
+    "jquery": ">=3.4.1",
+    "uglify-js-es6": "^2.8.9"
   },
   "devDependencies": {
     "csso": "3.5.1",
