@@ -40,6 +40,14 @@ combined with chess.js: [Example 5000], [Example 5001], [Example 5002]
 - Docs - <https://chessboardjs.com/docs>
 - Examples - <https://chessboardjs.com/examples>
 
+- Custom dimensions example: 
+```
+var config = {
+  rows: '6',
+  columns: '16'
+}
+var board = Chessboard('myBoard', config)
+```
 ## Developer Tools
 
 ```sh
