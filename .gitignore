@@ -8,3 +8,7 @@ website/*.html
 website/css/chessboard.css
 website/js/chessboard.js
 website/examples/
+yarn.lock
+package-lock.json
+lib/test.html
+yarn.lock
