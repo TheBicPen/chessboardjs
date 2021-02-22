@@ -1,6 +1,13 @@
-# chessboard.js Change Log
+# Var-board changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project may be documented in this file.
+
+## [0.1.1] - 2021-02-21
+
+- Add variable-dimension functionality
+- Update docs
+
+# chessboard.js Change Log
 
 ## [1.0.0] - 2019-06-11
 - Orientation methods now return current orientation. [Issue #64]
